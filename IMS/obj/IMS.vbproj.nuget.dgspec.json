@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Visual  Studio Work\\IMS\\IMS.vbproj": {}
+    "C:\\Users\\pokha\\Source\\Repos\\gauravg77\\IMS-system\\IMS\\IMS.vbproj": {}
   },
   "projects": {
-    "D:\\Visual  Studio Work\\IMS\\IMS.vbproj": {
+    "C:\\Users\\pokha\\Source\\Repos\\gauravg77\\IMS-system\\IMS\\IMS.vbproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Visual  Studio Work\\IMS\\IMS.vbproj",
+        "projectUniqueName": "C:\\Users\\pokha\\Source\\Repos\\gauravg77\\IMS-system\\IMS\\IMS.vbproj",
         "projectName": "IMS",
-        "projectPath": "D:\\Visual  Studio Work\\IMS\\IMS.vbproj",
+        "projectPath": "C:\\Users\\pokha\\Source\\Repos\\gauravg77\\IMS-system\\IMS\\IMS.vbproj",
         "packagesPath": "C:\\Users\\pokha\\.nuget\\packages\\",
-        "outputPath": "D:\\Visual  Studio Work\\IMS\\obj\\",
+        "outputPath": "C:\\Users\\pokha\\Source\\Repos\\gauravg77\\IMS-system\\IMS\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\pokha\\AppData\\Roaming\\NuGet\\NuGet.Config",
