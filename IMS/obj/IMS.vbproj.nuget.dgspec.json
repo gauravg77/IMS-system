@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\pokha\\Source\\Repos\\gauravg77\\IMS-system\\IMS\\IMS.vbproj": {}
+    "C:\\Users\\pokha\\source\\repos\\gauravg77\\IMS-system\\IMS\\IMS.vbproj": {}
   },
   "projects": {
-    "C:\\Users\\pokha\\Source\\Repos\\gauravg77\\IMS-system\\IMS\\IMS.vbproj": {
+    "C:\\Users\\pokha\\source\\repos\\gauravg77\\IMS-system\\IMS\\IMS.vbproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pokha\\Source\\Repos\\gauravg77\\IMS-system\\IMS\\IMS.vbproj",
+        "projectUniqueName": "C:\\Users\\pokha\\source\\repos\\gauravg77\\IMS-system\\IMS\\IMS.vbproj",
         "projectName": "IMS",
-        "projectPath": "C:\\Users\\pokha\\Source\\Repos\\gauravg77\\IMS-system\\IMS\\IMS.vbproj",
+        "projectPath": "C:\\Users\\pokha\\source\\repos\\gauravg77\\IMS-system\\IMS\\IMS.vbproj",
         "packagesPath": "C:\\Users\\pokha\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\pokha\\Source\\Repos\\gauravg77\\IMS-system\\IMS\\obj\\",
         "projectStyle": "PackageReference",
